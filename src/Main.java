@@ -10,4 +10,7 @@ void main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         IO.println("i = " + i);
     }
+    double hello = 10.0;
+    double squareRoot = Math.sqrt(hello);
+    IO.println("Deiu are biceps si mai mare!!!");
 }
